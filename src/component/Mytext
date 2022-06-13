@@ -1,0 +1,11 @@
+    // <div className="carosuel">
+    //     <div className="slides fade">
+    //         <img src="./images/onePlus.jpg" alt="" />
+    //     </div>
+    //     <div className="prev btn">
+    //         <i className="fa-solid fa-angle-left"></i>
+    //     </div>
+    //     <div className="next btn">
+    //         <i className="fa-solid fa-angle-right"></i>
+    //     </div>
+    // </div>
